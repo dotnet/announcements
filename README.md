@@ -8,7 +8,7 @@ All items posted to this repo are locked, but will typically have links to separ
 
 Subscribe to this repo to be notified about major changes and other noteworthy announcements in .NET Core.
 
-![image](https://github.com/dotnet/announcements/blob/master/images/subscribe.png)
+![image](https://cloud.githubusercontent.com/assets/2212879/24160016/08a7c0d4-0e1e-11e7-9586-60e987d2f26b.png)
 
 ## Using the Issues list
 
