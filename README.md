@@ -12,4 +12,4 @@ Subscribe to this repo to be notified about major changes and other noteworthy a
 
 ## Using the Issues list
 
-Use the [Announcement](https://github.com/aspnet/Announcements/labels/Announcement) and [Breaking Change](https://github.com/dotnet/Announcements/labels/Breaking%20Change) labels to see what's new and changed. Filter by milestone to find announcements or breaking changes for a specific release.
+Use the [Announcement](https://github.com/dotnet/Announcements/labels/Announcement) and [Breaking Change](https://github.com/dotnet/Announcements/labels/Breaking%20Change) labels to see what's new and changed. Filter by milestone to find announcements or breaking changes for a specific release.
