@@ -4,6 +4,8 @@ This repo is for team announcements only. To file a bug or start a discussion, p
 
 All items posted to this repo are locked, but will typically have links to separate discussion threads in the affected repo. Please use those discussion threads for questions and comments about a particular announcement. If you're not sure where to post a question, please log an issue in the [dotnet/core](https://github.com/dotnet/core/issues) repo.
 
+To keep the list manageable, we'll usually close issues that are older than one month.
+
 ## Receiving Notifications
 
 Subscribe to this repo to be notified about major changes and other noteworthy announcements in .NET Core.
