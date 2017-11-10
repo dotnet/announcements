@@ -21,4 +21,10 @@ Subscribe to this repo to be notified about major changes and other noteworthy a
 
 ## Using the Issues list
 
-Use the [Announcement](https://github.com/dotnet/Announcements/labels/Announcement) and [Breaking Change](https://github.com/dotnet/Announcements/labels/Breaking%20Change) labels to see what's new and changed. Filter by milestone to find announcements or breaking changes for a specific release.
+Use the appropriate labels to see what's going on:
+
+* [What's new](https://github.com/dotnet/Announcements/issues) (no label)
+* [Breaking Changes](https://github.com/dotnet/announcements/issues?q=is%3Aopen+is%3Aissue+label%3A%22Breaking+Change%22)
+* [Security bulletins](https://github.com/dotnet/announcements/issues?q=is%3Aopen+is%3Aissue+label%3ASecurity)
+
+Filter by milestone to find announcements for a specific release.
