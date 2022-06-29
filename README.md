@@ -6,6 +6,8 @@ All items posted to this repo are locked, but will typically have links to separ
 
 ## Process
 
+> **Note:** The best practices in how we intend to use this repo are documented in https://github.com/dotnet/announcements/issues/229.
+
 Since this repository is for announcements only, we do not accept issues or PRs on this repository. Furthermore, we'll usually not close any issues either. We will, however, close issues that have become invalid as we changed our mind and didn't end up implementing or shipping it.
 
 Not closing issues has the following advantages:
